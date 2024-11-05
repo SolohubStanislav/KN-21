@@ -4,6 +4,6 @@ while True :
         print("Добрий день")
     elif msg=="Слава Україні":
         print("Героям СЛАВА")
-    elif msg=="pa pa":
+    elif msg=="па па":
         print("the eng")
         break
